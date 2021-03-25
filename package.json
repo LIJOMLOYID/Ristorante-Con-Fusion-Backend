@@ -1,0 +1,11 @@
+{
+  "name": "ristorante-con-fusion-backend",
+  "version": "1.0.0",
+  "description": "Server for the Con-fusion restaurant website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lijo M Loyid",
+  "license": "ISC"
+}
