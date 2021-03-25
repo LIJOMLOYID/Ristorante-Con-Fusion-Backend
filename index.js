@@ -16,5 +16,5 @@ app.use((req, res, next) => {
 const server = http.createServer(app);
 
 app.listen(port, hostname, () => {
-  console.log(`Server running http://${hostname} : ${port}`);
+  console.log(`Server running at http://${hostname}:${port}`);
 });
